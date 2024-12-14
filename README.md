@@ -16,10 +16,10 @@ Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 
 ### My Skills
 
-###frontend
+### frontend
 
 
-
+<p>
 <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/AuPt2roSDqnw7k743-p2hO4S_MxuvDjRMKkmKllpBDw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9mbHV0dGVyLWxv/Z28uc3Zn" width="36" height="36" alt="flutter" /></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -34,8 +34,11 @@ Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><p>
 
+### backend
+
+<img src="https://imgs.search.brave.com/y0eWgJ_dadVyMgDmVqYimmLI5x4O8OuLM3h-iaHetXY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL01vbmdvREIu/c3Zn" width="36" height="36" />
 
 
 ### Socials
