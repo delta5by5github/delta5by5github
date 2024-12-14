@@ -39,6 +39,7 @@ Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 ### backend
 
 <img src="https://imgs.search.brave.com/y0eWgJ_dadVyMgDmVqYimmLI5x4O8OuLM3h-iaHetXY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL01vbmdvREIu/c3Zn" width="36" height="36" />
+<img src="https://imgs.search.brave.com/14osNFB8UbePR5iGhs4iQ7s969an3VdTpmfVIepe3WU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI5L1Bvc3RncmVz/cWxfZWxlcGhhbnQu/c3Zn" width="36" height="36" />
 
 
 ### Socials
