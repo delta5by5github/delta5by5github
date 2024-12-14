@@ -7,10 +7,10 @@ Founder, CEO, Developer.
 Dalton is a Go and flutter Developer with a passion for coding. I'm is a full-time Software Engineer with years of experience in Software Development and Developer Advocacy.
 
 * 🌍  I'm based in Memphis, TN
-* 🧠  I'm learning everything Flutter
-* 🏡 My website - in Development
-* ✝️ Religion: Christian
-* ⚡ Fun fact: I an unhealthy obsession with coding
+* 🧠  I'm learning everything Flutter
+* 🏡  My website - in Development
+* ✝️  Religion: Christian
+* ⚡  Fun fact: I an unhealthy obsession with coding
 
 Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 
@@ -24,12 +24,7 @@ Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 
 ### backend
 
-<img src="https://imgs.search.brave.com/y0eWgJ_dadVyMgDmVqYimmLI5x4O8OuLM3h-iaHetXY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL01vbmdvREIu/c3Zn" width="36" height="36" />
-<img src="https://imgs.search.brave.com/14osNFB8UbePR5iGhs4iQ7s969an3VdTpmfVIepe3WU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI5L1Bvc3RncmVz/cWxfZWxlcGhhbnQu/c3Zn" width="36" height="36" />
-<img src="https://imgs.search.brave.com/OPII0jh6hUDctO_9zDf0Yy6U6WUwrUC04xSCkW-Iteo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzQ3/ZGEzbC9zdHlsZXMv/Y29tbXVuaXR5SWNv/bl84d2Jxa3Awcm96/amQxLmpwZz9mb3Jt/YXQ9cGpwZyZzPTcw/ODYyZWVjOWMyOWFh/MGMyNWYyYTZiOWU3/MDg2OThkZDAzNDc0/ZTU" width="36" height="36" />
-<img src="https://imgs.search.brave.com/s1xAn5YwOjh3TemyukTB_Gs0LcPF-J2NlFMeNdXtR7c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maXJlYmFz/ZS1pY29uLTc0Nngx/MDI0LTd6amozYW40/LnBuZw" width="36" height="36" />
-<img src="https://imgs.search.brave.com/C83rVcr1LEPIbxeicnED44Gy9uHHQYrmfrqQevPpjZE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI2/OTkvUE5HLzUxMi9n/b2xhbmdfbG9nb19p/Y29uXzE3MTA3My5w/bmc" width="36" height="36" />
-
+<img src="https://imgs.search.brave.com/y0eWgJ_dadVyMgDmVqYimmLI5x4O8OuLM3h-iaHetXY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL01vbmdvREIu/c3Zn" width="36" height="36" /><img src="https://imgs.search.brave.com/14osNFB8UbePR5iGhs4iQ7s969an3VdTpmfVIepe3WU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI5L1Bvc3RncmVz/cWxfZWxlcGhhbnQu/c3Zn" width="36" height="36" /><img src="https://imgs.search.brave.com/OPII0jh6hUDctO_9zDf0Yy6U6WUwrUC04xSCkW-Iteo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzQ3/ZGEzbC9zdHlsZXMv/Y29tbXVuaXR5SWNv/bl84d2Jxa3Awcm96/amQxLmpwZz9mb3Jt/YXQ9cGpwZyZzPTcw/ODYyZWVjOWMyOWFh/MGMyNWYyYTZiOWU3/MDg2OThkZDAzNDc0/ZTU" width="36" height="36" /><img src="https://imgs.search.brave.com/s1xAn5YwOjh3TemyukTB_Gs0LcPF-J2NlFMeNdXtR7c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maXJlYmFz/ZS1pY29uLTc0Nngx/MDI0LTd6amozYW40/LnBuZw" width="36" height="36" /><img src="https://imgs.search.brave.com/C83rVcr1LEPIbxeicnED44Gy9uHHQYrmfrqQevPpjZE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI2/OTkvUE5HLzUxMi9n/b2xhbmdfbG9nb19p/Y29uXzE3MTA3My5w/bmc" width="36" height="36" />
 
 
 ### Socials
