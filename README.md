@@ -6,7 +6,7 @@ Founder, CEO and Software Engineer.
 
 Dalton is a Go and flutter Developer with a passion for coding. I'm is a full-time Software Engineer with years of experience in Software Development and Developer Advocacy.
 
-* 🌍  I'm based in Memphis, TN
+* 🌍  I'm based in Mbombela, MP
 * 🧠  I'm learning everything Flutter
 * 🏡  My website - in Development
 * ✝️  Religion: Christian
