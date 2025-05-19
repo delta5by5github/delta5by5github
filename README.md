@@ -16,9 +16,10 @@ Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 
 ### My Skills
 
-### Backend
+### Lanuages
 
-<img src="[https://imgs.search.brave.com/y0eWgJ_dadVyMgDmVqYimmLI5x4O8OuLM3h-iaHetXY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL01vbmdvREIu/c3Zn](https://imgs.search.brave.com/h_xXTtN_VSMqhZQABTERmLOFGhe92ZIF48pcAS1MElc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzA2L0tvdGxpbl9J/Y29uLnN2Zw)" width="36" height="36" />
+<img src="![Uploading image.png…]()
+" width="36" height="36" />
 ### Frontend
 
 
