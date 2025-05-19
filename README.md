@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dalton Sethu Mabuza
 =====================================================================================================================================
 
-Founder, CEO and Software Engineer.
+Co-founder and CEO of Luminary Vanguard.
 ----------------------------
 
 Dalton is a Go and flutter Developer with a passion for coding. I'm is a full-time Software Engineer with years of experience in Software Development and Developer Advocacy.
@@ -16,6 +16,9 @@ Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 
 ### My Skills
 
+### Backend
+
+<img src="[https://imgs.search.brave.com/y0eWgJ_dadVyMgDmVqYimmLI5x4O8OuLM3h-iaHetXY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL01vbmdvREIu/c3Zn](https://imgs.search.brave.com/h_xXTtN_VSMqhZQABTERmLOFGhe92ZIF48pcAS1MElc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzA2L0tvdGxpbl9J/Y29uLnN2Zw)" width="36" height="36" />
 ### Frontend
 
 
