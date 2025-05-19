@@ -16,10 +16,7 @@ Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 
 ### My Skills
 
-### Lanuages
 
-<img src="![Uploading image.png…]()
-" width="36" height="36" />
 ### Frontend
 
 
