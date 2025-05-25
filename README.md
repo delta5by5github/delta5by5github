@@ -16,6 +16,10 @@ Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 
 ### My Skills
 
+### Languages
+<p>
+  <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/AuPt2roSDqnw7k743-p2hO4S_MxuvDjRMKkmKllpBDw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9mbHV0dGVyLWxv/Z28uc3Zn" width="36" height="36" alt="flutter" /></a>
+</p>
 
 ### Frontend
 
