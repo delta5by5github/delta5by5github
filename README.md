@@ -18,7 +18,7 @@ Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 
 ### Languages
 <p>
-  <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/7rpdS9uR48H9JMfgJzn8oMBNSBiMhl-0unCsszz63ZQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vMmh4d2JP/MnFzeWZzTmE1MmVq/eVNSRmxnTlcxbmVP/dUJXX3pBbDRzRTdv/WS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTkx/Y0d4di9ZV1F1ZDJs/cmFXMWxaR2xoL0xt/OXlaeTkzYVd0cGNH/VmsvYVdFdlkyOXRi/Vzl1Y3k5aC9MMkV5/TDBSaGNuUmZjSEp2/L1ozSmhiVzFwYm1k/ZmJHRnUvWjNWaFoy/VmZiRzluYjE5cC9Z/Mjl1TG5OMlp3" width="36" height="36" alt="flutter" /></a>
+  <img src="https://imgs.search.brave.com/7rpdS9uR48H9JMfgJzn8oMBNSBiMhl-0unCsszz63ZQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vMmh4d2JP/MnFzeWZzTmE1MmVq/eVNSRmxnTlcxbmVP/dUJXX3pBbDRzRTdv/WS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTkx/Y0d4di9ZV1F1ZDJs/cmFXMWxaR2xoL0xt/OXlaeTkzYVd0cGNH/VmsvYVdFdlkyOXRi/Vzl1Y3k5aC9MMkV5/TDBSaGNuUmZjSEp2/L1ozSmhiVzFwYm1k/ZmJHRnUvWjNWaFoy/VmZiRzluYjE5cC9Z/Mjl1TG5OMlp3">
 </p>
 
 ### Frontend
