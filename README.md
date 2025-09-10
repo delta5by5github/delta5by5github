@@ -1,15 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dalton Sethu Mabuza
 =====================================================================================================================================
 
-Co-founder and CEO of Luminary Vanguard.
+Full stack developer
 ----------------------------
 
-Dalton is a Go and flutter Developer with a passion for coding. I'm is a full-time Software Engineer with years of experience in Software Development and Developer Advocacy.
+Dalton is a Go and flutter Developer with a passion for coding. I'm is a full-time Software Engineer with years of experience in Software Development and Developer Advocacy, with a wealth of knowledge I've gained over the years. I'm proficient in multiple languages and have collaborated in a lot of projects
+
+### My Deltails
 
 * 🌍  I'm based in Mbombela, MP
-* 🧠  I'm learning everything Flutter
+  
+* 🧠  I'm learning everything Flutter, React, Jakarta EE, Springboot
+  
 * 🏡  My website - [Dalton S.Mabuza](https://dalton-s-mabuza.netlify.app/)
+  
 * ✝️  Religion: Christian
+  
 * ⚡  Fun fact: I an unhealthy obsession with coding
 
 Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
